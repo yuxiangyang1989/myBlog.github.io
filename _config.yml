@@ -5,7 +5,7 @@ header-img: img/post-bg-map.jpg
 email: 15982325055@163.com
 description: "Every failure is leading towards success."
 keyword: "BY, BY Blog, 羊羊羊的博客, yangyangyang, 羊羊羊, java, 大数据, 前端"
-url: "http://qiubaiying.top"          # your host, for absolute URL
+url: "http://myBlog.top"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
 
